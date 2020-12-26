@@ -1,0 +1,72 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-12-12T02:07:37.973Z",
+        "line": 4,
+        "name": "Validate tokopedia searching is working",
+        "description": "",
+        "id": "feature-test-search-tokopedia-homepage;validate-tokopedia-searching-is-working",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7006384500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User open browser",
+            "match": {
+              "location": "StepDefinition.BDD_Search_Tokped.user_open_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7692830900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User on tokopedia homepage",
+            "match": {
+              "location": "StepDefinition.BDD_Search_Tokped.user_on_tokopedia_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3345183100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User search seblak on search box",
+            "match": {
+              "location": "StepDefinition.BDD_Search_Tokped.user_search_seblak_on_search_box()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3521197200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User navigated to seblak result page",
+            "match": {
+              "location": "StepDefinition.BDD_Search_Tokped.user_navigated_to_seblak_result_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Feature test search tokopedia homepage",
+    "description": "  User want to search Seblak on tokped homepage",
+    "id": "feature-test-search-tokopedia-homepage",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/BDD_Search_Tokped.feature",
+    "tags": []
+  }
+]
