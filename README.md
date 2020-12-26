@@ -92,7 +92,7 @@ My resume :
 							<goal>generate</goal>
 						</goals>
 						<configuration>
-							<projectName>BDD-KasKus</projectName>
+							<projectName>BDDTokped</projectName>
 							<outputDirectory>${project.build.directory}/cucumber-report-html</outputDirectory>
 							<cucumberOutput>${project.build.directory}/cucumber.json</cucumberOutput>
 						</configuration>
