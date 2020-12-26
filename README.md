@@ -255,3 +255,7 @@ import io.cucumber.junit.CucumberOptions;
 
 11. Run TestRunnet.java as JUnit Test
 <br><img src="https://i.imgur.com/IgD8YCC.jpg" width="500"></br>
+
+12. open command and enters "mvn clean" test will generate the Cucumber report file
+
+13. enters "mvn verify -DskipTests" will generate the cucumber-report-html based on the cucumber.json
