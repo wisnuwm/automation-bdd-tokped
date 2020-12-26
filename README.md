@@ -16,7 +16,7 @@ My resume :
 <img src="https://i.imgur.com/zY7bWiW.jpg" width="500">
 <img src="https://i.imgur.com/kkvv9qG.jpg" width="500">
 <img src="https://i.imgur.com/J4PTujs.jpg" width="500">
-<img src="https://i.imgur.com/GFdzmJI.jpg" width="500">
+<img src="https://i.imgur.com/gCYCSGZ.jpg" width="500">
 
 
 2. add dependencies at pom.xml
