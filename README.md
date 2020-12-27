@@ -10,6 +10,7 @@ I studied informatics engineering at Indraprasta PGRI University:computer:
 
 
 My LinkedIn : <a href=www.linkedin.com/in/wisnuwm>Click Here</a>
+
 My resume : 
 <a href="https://www.canva.com/design/DAEN6UE9gHw/IT44M4JB4SRFftmqu8O9TQ/view?utm_content=DAEN6UE9gHw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
 
