@@ -4,10 +4,12 @@ Automation Web Testing using Selenium Java,
 
 This project is for my portofolio
 -
-Hi, My name is Wisnu Munawar,
-I Love outdoor activity like hiking, camping etc,
-I studied informatics engineering at Indraprasta PGRI University
+Hi:wave:, My name is Wisnu Munawar,
+I Love outdoor activity like hiking, camping etc:sunrise_over_mountains:,
+I studied informatics engineering at Indraprasta PGRI University:computer:
 
+
+My LinkedIn : <a href=www.linkedin.com/in/wisnuwm>Click Here</a>
 My resume : 
 <a href="https://www.canva.com/design/DAEN6UE9gHw/IT44M4JB4SRFftmqu8O9TQ/view?utm_content=DAEN6UE9gHw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
 
@@ -113,7 +115,7 @@ My resume :
 <img src="https://i.imgur.com/UTcR4rQ.jpg" width="500">
 <img src="https://i.imgur.com/SlvYyrm.jpg" width="500">
 
-6. add code
+6. add code kaskus-login.feature
 ```
 
 Feature: Feature test tokopedia login page
