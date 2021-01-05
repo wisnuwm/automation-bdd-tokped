@@ -12,7 +12,7 @@ I studied informatics engineering at Indraprasta PGRI University:computer:
 My LinkedIn : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a>
 
 My resume : 
-<a href="https://www.canva.com/design/DAEN6UE9gHw/IT44M4JB4SRFftmqu8O9TQ/view?utm_content=DAEN6UE9gHw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
+<a href="https://www.canva.com/design/DAESV3pOooo/O8h7rIphALda-oQEtC6Y0A/view?utm_content=DAESV3pOooo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click Here</a>
 
 # Guidance
 1. Create Maven project Eclipse
